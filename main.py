@@ -9,7 +9,7 @@ def _xor(string):
 
 iid = "7126211940330063622"
 did = "6888243656290108930"
-username = "rubenholg"
+username = input("named3dits")
 
 Solver(did, iid).solve_captcha()
 
